@@ -137,4 +137,3 @@ ggplot(data.all,aes(x=time, y=fraction, ymin=fraction_95_low, ymax=fraction_95_h
 
 ### Extract Data for Paper ###
 # data.all %>% filter(group == "french" & value=="Parent" & time == 15)
-
