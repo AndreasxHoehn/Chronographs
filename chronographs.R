@@ -1,6 +1,6 @@
 ### Meta ###
 # Author: Andreas Höhn
-# Version: 1.1
+# Version: 1.2
 # Date: 23.08.2021
 # About: Get data from TraMineR-Specific Objects for Chronographs and 
 # estimate 95% CIs assuming it's a population proportion n>30, and X ~ B(n, p)
